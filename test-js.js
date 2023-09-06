@@ -275,4 +275,6 @@ function checkForSpam(message) {
 }
 
 
- console.log(checkForSpam())
+ // console.log(checkForSpam())
+
+
